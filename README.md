@@ -5,20 +5,18 @@
 - **주최**: LG AI Research
 <br>
 
-### 📝 실험 기록
+### 📝 EDA
 
 <br>
 
-### 🔬 최종 전략
+### 📊 Modeling 
 
 <br>
 
-### 🏅 대회 결과
+### 🏅 결과
 |  | f1 score | 등수 |
 | :-: | :-: | :-: |
 | public | 0.755676 | 65 / 884 (상위 7%) |
 | private | 0.764643 | 66 / 884 (상위 7%) |
+약 상위 30팀까지 진출하는 본선에는 진출 실패
 <br>
-
-### 📝 대회 후기
-- [[LG Aimers 4기] Phase 2: 온라인 해커톤 후기](https://velog.io/@nstalways/LG-Aimers-4%EA%B8%B0-Phase-2-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0)
