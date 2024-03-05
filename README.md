@@ -5,7 +5,7 @@
 - **주최**: LG AI Research
 <br>
 
-### 📝 EDA
+### 📝 Feature Engineering
 
 <br>
 
